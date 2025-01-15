@@ -1,0 +1,6 @@
+[submodule "vendor/simdjson"]
+	path = vendor/simdjson
+	url = https://github.com/simdjson/simdjson.git
+[submodule "vendor/glm"]
+	path = vendor/glm
+	url = https://github.com/g-truc/glm.git
